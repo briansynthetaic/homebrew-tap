@@ -25,7 +25,7 @@ class ConceptGraph < Formula
       linked skill folders, use: concept-graph link --dir "/path/to/skills"
 
       In your agent chat, ask "map this conversation to a concept-graph."
-      Update all linked agents with: brew upgrade concept-graph
+      For future updates, run brew install concept-graph
     EOS
   end
 
